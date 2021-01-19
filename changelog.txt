@@ -1,2 +1,3 @@
 -Chnaged how the software handles updates
 -Optimized loading
+-Removed debugging numbers
