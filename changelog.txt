@@ -1,1 +1,2 @@
--lol
+-Chnaged how the software handles updates
+-Optimized loading
