@@ -5,4 +5,3 @@
 -Changed how updates are handled
 -Added the option to change the menu bar color
 -Added the option to change the position of the menu bar
-
