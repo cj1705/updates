@@ -1,2 +1,2 @@
--Added a web browser
--Added a internal unzipping tool
+-Added a new UI
+-Changed how software is handled
